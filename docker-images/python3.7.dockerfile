@@ -1,4 +1,4 @@
-FROM tiangolo/uwsgi-nginx:python3.7
+FROM docker.mobivention.eu/mobivention/uwsgi-nginx:python3.7
 
 LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
 
